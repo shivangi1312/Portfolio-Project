@@ -1,5 +1,5 @@
 
-Zomato Dataset Analysis (Bangalore)-
+Zomato Dataset Analysis (Bangalore)
 
 • Analyzed Zomato dataset using Python and data visualization libraries (Pandas, Seaborn, Matplotlib); identified key trends and 
 insights in Bangalore's food industry that drove strategic decision-making for the company 
